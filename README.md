@@ -1,1 +1,0 @@
-This folder contains a script to categorize sets of 100 boolean attributes into a label, which is represented by the first value in the training sets. The given context was that the data was for classifying mushrooms as poisonous or not based on 100 traits, but it could be applied to anything. Back propogation is utilized in this code.
